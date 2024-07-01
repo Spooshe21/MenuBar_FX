@@ -25,6 +25,7 @@ This repository contains a JavaFX application developed by Crevavi Technologies 
 ## Setup
 ### Prerequisites
 - JDK 22
+- Javafx Scenebuilder
 - Eclipse IDE for Enterprise Java and Web Developers (Version: 2024-03 (4.31.0), Build id: 20240307-1437)
 
 ### Installation
